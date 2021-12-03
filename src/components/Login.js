@@ -29,7 +29,7 @@ const Login = (props) => {
           }
     }
     return (
-        <div className="mt-3">
+        <div className="mt-3" style={{width:"60%", margin:"2rem auto"}}>
             <h1>Login to iNotebook</h1>
             <form onSubmit={handleSubmit} className="my-4">
             <div className="mb-3">
