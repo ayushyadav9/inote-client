@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://face-attendance935.herokuapp.com/">
+  <a href="https://i-notes.netlify.app/">
     <img src="./images/pencil.png" alt="Logo" width="150">
   </a>
 </p>
