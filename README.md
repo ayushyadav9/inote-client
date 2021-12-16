@@ -1,18 +1,24 @@
 # i-Notebook - A note keeper web application
+
+<br>
+<br>
+
 <p align="center">
   <a href="https://face-attendance935.herokuapp.com/">
     <img src="./images/pencil.png" alt="Logo" width="150">
   </a>
 </p>
 
+<br/>
+<br/>
 
-Demo : [Click here](https://i-notes.netlify.app/)
+**Demo** : [Click here](https://i-notes.netlify.app/)
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
------------------------------------
+## **About The Project**
+
 i-Notes is a free-form notes web application. It allows you to store all of your notes and information in an easy-to-use outline, where you can quickly find what you need. Here users can create, update and delete their notes. Creating your own freeform database and getting organized couldn't be easier.
 <br/>
 <br/>
